@@ -1,4 +1,4 @@
-# Projeto React
+# Projeto React com React Router Dom v5.3
 * ultimo visto :: https://celke.com.br/clms/aula-curso/view/4181
 * Celke :: https://celke.com.br/clms/aula-curso/view/4175
 ### Fonte:: stap by stap
@@ -12,4 +12,7 @@
 
 ### Dependências
 * Gerenciar rotas
-    * npm i react-router-dom@5^
+    * npm i react-router-dom@5.3.0
+### Como remover uma dependência
+* npm uninstall react-router-dom
+* ou entrar no package.json e apagar e rodar o npm i novamente
